@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'GapyeongHanseokbong';
+  font-weight: 300;
+  font-style: normal;
+  src: url('./GapyeongHanseokbongL.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'GapyeongHanseokbong';
+  font-weight: 400;
+  font-style: normal;
+  src: url('./GapyeongHanseokbongR.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'GapyeongHanseokbong';
+  font-weight: 700;
+  font-style: normal;
+  src: url('./GapyeongHanseokbongB.ttf') format('truetype');
+}
