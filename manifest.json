@@ -1,0 +1,16 @@
+{
+  "name": "말결연구소",
+  "short_name": "말결연구소",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#191b1d",
+  "theme_color": "#191b1d",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
